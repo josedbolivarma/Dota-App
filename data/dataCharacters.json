@@ -1,0 +1,214 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "ABADDON",
+            "sinapsis": "PROTEGE A SUS ALIADOS O A SÍ MISMO DE LOS ATAQUES.",
+            "description": "La Fuente del Averno es el origen de la fuerza de una familia, una grieta en las rocas primigenias de la que han emanado vapores de profético poder durante generaciones. Cada neonato de la cavernosa Casa del Averno es bañado en la niebla oscura y con este bautismo obtienen una conexión innata con las energías místicas de la tierra. Crecen creyendo que son los fieros protectores de las tradiciones de su linaje, las costumbres del reino; pero lo que verdaderamente protegen es a la propia Fuente. Y los objetivos de su niebla son inciertos.            Cuando el infante Abaddon fue bañado en la Fuente, dicen que algo fue mal. En los ojos del joven brilló una luz de comprensión que espantó a todos los presentes e hizo susurrar a los sacerdotes. Fue criado con la expectativa de que siguiera la senda de todos los de la casta del Averno: entrenar en el arte de la guerra, para que en tiempos de necesidad pueda dirigir el ejército de su familia en defensa de las tierras ancestrales. Pero Abaddon siempre fue distinto. Mientras que los otros entrenaban con armas, él se dedicó a la meditación en presencia de la niebla. Inhaló profundamente los vapores que emanaban de la Fuente, aprendiendo a mezclar su espíritu con el poder que surgía de debajo la Casa: se convirtió en una criatura de la niebla oscura.Los miembros de la Casa del Averno no estaban contentos: tanto jóvenes como ancestros le acusaban de ignorar sus responsabilidades. Pero todas las acusaciones se detuvieron cuando Abaddon cabalgó hacia la batalla y vieron cómo los poderes de la niebla le habían otorgado maestría sobre la vida y la muerte más allá de la otorgada a cualquier lord que jamás hubiera habido en la Casa.Cerrar historia Capaz de transformar los ataques enemigos en una cura para él mismo, Abaddon puede sobrevivir casi cualquier enfrentamiento. Con su habilidad para poner escudos sobre sus aliados y lanzar la espiral de doble filo a aliados o enemigos, siempre está listo para marchar a la batalla.",
+            "attack": "CUERPO A CUERPO",
+            "atributo": "fuerza",
+            "banner": "https://i.blogs.es/d92d5c/alchemist/1366_2000.jpg",
+            "avatar": {
+                "path__front": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png"
+
+            },
+            "roles": {
+                "carry": 30,
+                "support": 70,
+                "Nuker": 0,
+                "Incapacitador": 0,
+                "Jungla": 0,
+                "Resistente": 74,
+                "Evasivo": 0,
+                "Presionador": 0,
+                "Iniciador": 0
+            },
+            "atributos": {
+                "fuerza": 22,
+                "agilidad": 23,
+                "inteligencia": 18,
+                "points": {
+                    "health": 640,
+                    "mana": 291,
+                    "regeneration": {
+                        "health": 3.2,
+                        "mana": 1.2
+                    }
+                }
+            },
+            "statistics": {
+                "ataque": 50,
+                "defensa": 2.8,
+                "movilidad": 325
+            }
+        },
+        {
+            "id": 2,
+            "name": "ALCHEMIST",
+            "sinapsis": "CONSIGUE ORO ADICIONAL DE LAS UNIDADES ASESINADAS Y LAS RUNAS DE RECOMPENSA.",
+            "description": "La sagrada ciencia de la química era una tradición de la familia Mezclaoscura, pero ningún Mezclaoscura había mostrado nunca la creatividad, ambición y temeridad del joven Razzil. Sin embargo, cuando la edad adulta llamó a su puerta, dejó a un lado el negocio familiar y probó suerte con la fabricación de oro mediante la alquimia. En un acto de audacia digno de su reputación, Razzil anunció que iba a transmutar una montaña entera en oro. Después de dos décadas de investigación, gastos y preparación, fracasó estrepitosamente, viéndose rápidamente encarcelado debido a la enorme destrucción que provocó su experimento. No obstante, Razzil no era de los que se toman un revés a la ligera, y trató de escapar para continuar su investigación. Cuando su nuevo compañero de celda resultó ser un feroz ogro, encontró la oportunidad que necesitaba. Tras convencer al ogro de que no se lo comiese, Razzil se puso a preparar una disolución para dársela de beber, hecha a partir del moho y el musgo que crecían en los muros de la prisión. En una semana parecía estar lista. Cuando el ogro bebió la poción, una furia imparable se apoderó de él, destruyendo los barrotes de la celda y atravesando los muros y a los guardias por igual. Pronto se encontraron perdidos en algún lugar del bosque que rodea la ciudad con un rastro de escombros detrás de ellos y ninguna señal de persecución. Al terminarse el efecto del tónico, el ogro parecía sereno, feliz e incluso entusiasmado. Acordando trabajar juntos, la pareja partió a recoger los materiales necesarios para intentar la transmutación alquímica de Razzil una vez más. Cerrar historia Sintetizando los recursos adicionales de cada una de las muertes, Alchemist no tiene problema en reunir las herramientas necesarias para destruir a sus enemigos. Emboscando enemigos con ácido corrosivo y una gran cantidad de productos químicos inestables, lucha para asegurar que sus ávidas escapadas permanezcan ininterrumpidas.",
+            "attack": "CUERPO A CUERPO",
+            "atributo": "fuerza",
+            "banner": "https://i.blogs.es/d92d5c/alchemist/1366_2000.jpg",
+            "avatar": {
+                "path__front": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png"
+
+            },
+            "roles": {
+                "carry": 30,
+                "support": 70,
+                "Nuker": 0,
+                "Incapacitador": 0,
+                "Jungla": 0,
+                "Resistente": 74,
+                "Evasivo": 0,
+                "Presionador": 0,
+                "Iniciador": 0
+            },
+            "atributos": {
+                "fuerza": 25,
+                "agilidad": 22,
+                "inteligencia": 25,
+                "points": {
+                    "health": 700,
+                    "mana": 375,
+                    "regeneration": {
+                        "health": 2.8,
+                        "mana": 1.3
+                    }
+                }
+            },
+            "statistics": {
+                "ataque": 52,
+                "defensa": 2.7,
+                "movilidad": 305
+            }
+        },
+        {
+            "id": 3,
+            "name": "ALCHEMIST",
+            "sinapsis": "CONSIGUE ORO ADICIONAL DE LAS UNIDADES ASESINADAS Y LAS RUNAS DE RECOMPENSA.",
+            "description": "La sagrada ciencia de la química era una tradición de la familia Mezclaoscura, pero ningún Mezclaoscura había mostrado nunca la creatividad, ambición y temeridad del joven Razzil. Sin embargo, cuando la edad adulta llamó a su puerta, dejó a un lado el negocio familiar y probó suerte con la fabricación de oro mediante la alquimia. En un acto de audacia digno de su reputación, Razzil anunció que iba a transmutar una montaña entera en oro. Después de dos décadas de investigación, gastos y preparación, fracasó estrepitosamente, viéndose rápidamente encarcelado debido a la enorme destrucción que provocó su experimento. No obstante, Razzil no era de los que se toman un revés a la ligera, y trató de escapar para continuar su investigación. Cuando su nuevo compañero de celda resultó ser un feroz ogro, encontró la oportunidad que necesitaba. Tras convencer al ogro de que no se lo comiese, Razzil se puso a preparar una disolución para dársela de beber, hecha a partir del moho y el musgo que crecían en los muros de la prisión. En una semana parecía estar lista. Cuando el ogro bebió la poción, una furia imparable se apoderó de él, destruyendo los barrotes de la celda y atravesando los muros y a los guardias por igual. Pronto se encontraron perdidos en algún lugar del bosque que rodea la ciudad con un rastro de escombros detrás de ellos y ninguna señal de persecución. Al terminarse el efecto del tónico, el ogro parecía sereno, feliz e incluso entusiasmado. Acordando trabajar juntos, la pareja partió a recoger los materiales necesarios para intentar la transmutación alquímica de Razzil una vez más. Cerrar historia Sintetizando los recursos adicionales de cada una de las muertes, Alchemist no tiene problema en reunir las herramientas necesarias para destruir a sus enemigos. Emboscando enemigos con ácido corrosivo y una gran cantidad de productos químicos inestables, lucha para asegurar que sus ávidas escapadas permanezcan ininterrumpidas.",
+            "attack": "CUERPO A CUERPO",
+            "atributo": "fuerza",
+            "banner": "https://i.blogs.es/d92d5c/alchemist/1366_2000.jpg",
+            "avatar": {
+                "path__front": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png"
+
+            },
+            "roles": {
+                "carry": 30,
+                "support": 70,
+                "Nuker": 0,
+                "Incapacitador": 0,
+                "Jungla": 0,
+                "Resistente": 74,
+                "Evasivo": 0,
+                "Presionador": 0,
+                "Iniciador": 0
+            },
+            "atributos": {
+                "fuerza": 25,
+                "agilidad": 22,
+                "inteligencia": 25,
+                "points": {
+                    "health": 700,
+                    "mana": 375,
+                    "regeneration": {
+                        "health": 2.8,
+                        "mana": 1.3
+                    }
+                }
+            },
+            "statistics": {
+                "ataque": 52,
+                "defensa": 2.7,
+                "movilidad": 305
+            }
+        },
+        {
+            "id": 4,
+            "name": "ALCHEMIST",
+            "sinapsis": "CONSIGUE ORO ADICIONAL DE LAS UNIDADES ASESINADAS Y LAS RUNAS DE RECOMPENSA.",
+            "description": "La sagrada ciencia de la química era una tradición de la familia Mezclaoscura, pero ningún Mezclaoscura había mostrado nunca la creatividad, ambición y temeridad del joven Razzil. Sin embargo, cuando la edad adulta llamó a su puerta, dejó a un lado el negocio familiar y probó suerte con la fabricación de oro mediante la alquimia. En un acto de audacia digno de su reputación, Razzil anunció que iba a transmutar una montaña entera en oro. Después de dos décadas de investigación, gastos y preparación, fracasó estrepitosamente, viéndose rápidamente encarcelado debido a la enorme destrucción que provocó su experimento. No obstante, Razzil no era de los que se toman un revés a la ligera, y trató de escapar para continuar su investigación. Cuando su nuevo compañero de celda resultó ser un feroz ogro, encontró la oportunidad que necesitaba. Tras convencer al ogro de que no se lo comiese, Razzil se puso a preparar una disolución para dársela de beber, hecha a partir del moho y el musgo que crecían en los muros de la prisión. En una semana parecía estar lista. Cuando el ogro bebió la poción, una furia imparable se apoderó de él, destruyendo los barrotes de la celda y atravesando los muros y a los guardias por igual. Pronto se encontraron perdidos en algún lugar del bosque que rodea la ciudad con un rastro de escombros detrás de ellos y ninguna señal de persecución. Al terminarse el efecto del tónico, el ogro parecía sereno, feliz e incluso entusiasmado. Acordando trabajar juntos, la pareja partió a recoger los materiales necesarios para intentar la transmutación alquímica de Razzil una vez más. Cerrar historia Sintetizando los recursos adicionales de cada una de las muertes, Alchemist no tiene problema en reunir las herramientas necesarias para destruir a sus enemigos. Emboscando enemigos con ácido corrosivo y una gran cantidad de productos químicos inestables, lucha para asegurar que sus ávidas escapadas permanezcan ininterrumpidas.",
+            "attack": "CUERPO A CUERPO",
+            "atributo": "fuerza",
+            "banner": "https://i.blogs.es/d92d5c/alchemist/1366_2000.jpg",
+            "avatar": {
+                "path__front": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png"
+
+            },
+            "roles": {
+                "carry": 30,
+                "support": 70,
+                "Nuker": 0,
+                "Incapacitador": 0,
+                "Jungla": 0,
+                "Resistente": 74,
+                "Evasivo": 0,
+                "Presionador": 0,
+                "Iniciador": 0
+            },
+            "atributos": {
+                "fuerza": 25,
+                "agilidad": 22,
+                "inteligencia": 25,
+                "points": {
+                    "health": 700,
+                    "mana": 375,
+                    "regeneration": {
+                        "health": 2.8,
+                        "mana": 1.3
+                    }
+                }
+            },
+            "statistics": {
+                "ataque": 52,
+                "defensa": 2.7,
+                "movilidad": 305
+            }
+        },
+        {
+            "id": 5,
+            "name": "ALCHEMIST",
+            "sinapsis": "CONSIGUE ORO ADICIONAL DE LAS UNIDADES ASESINADAS Y LAS RUNAS DE RECOMPENSA.",
+            "description": "La sagrada ciencia de la química era una tradición de la familia Mezclaoscura, pero ningún Mezclaoscura había mostrado nunca la creatividad, ambición y temeridad del joven Razzil. Sin embargo, cuando la edad adulta llamó a su puerta, dejó a un lado el negocio familiar y probó suerte con la fabricación de oro mediante la alquimia. En un acto de audacia digno de su reputación, Razzil anunció que iba a transmutar una montaña entera en oro. Después de dos décadas de investigación, gastos y preparación, fracasó estrepitosamente, viéndose rápidamente encarcelado debido a la enorme destrucción que provocó su experimento. No obstante, Razzil no era de los que se toman un revés a la ligera, y trató de escapar para continuar su investigación. Cuando su nuevo compañero de celda resultó ser un feroz ogro, encontró la oportunidad que necesitaba. Tras convencer al ogro de que no se lo comiese, Razzil se puso a preparar una disolución para dársela de beber, hecha a partir del moho y el musgo que crecían en los muros de la prisión. En una semana parecía estar lista. Cuando el ogro bebió la poción, una furia imparable se apoderó de él, destruyendo los barrotes de la celda y atravesando los muros y a los guardias por igual. Pronto se encontraron perdidos en algún lugar del bosque que rodea la ciudad con un rastro de escombros detrás de ellos y ninguna señal de persecución. Al terminarse el efecto del tónico, el ogro parecía sereno, feliz e incluso entusiasmado. Acordando trabajar juntos, la pareja partió a recoger los materiales necesarios para intentar la transmutación alquímica de Razzil una vez más. Cerrar historia Sintetizando los recursos adicionales de cada una de las muertes, Alchemist no tiene problema en reunir las herramientas necesarias para destruir a sus enemigos. Emboscando enemigos con ácido corrosivo y una gran cantidad de productos químicos inestables, lucha para asegurar que sus ávidas escapadas permanezcan ininterrumpidas.",
+            "attack": "CUERPO A CUERPO",
+            "atributo": "fuerza",
+            "banner": "https://i.blogs.es/d92d5c/alchemist/1366_2000.jpg",
+            "avatar": {
+                "path__front": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png"
+
+            },
+            "roles": {
+                "carry": 30,
+                "support": 70,
+                "Nuker": 0,
+                "Incapacitador": 0,
+                "Jungla": 0,
+                "Resistente": 74,
+                "Evasivo": 0,
+                "Presionador": 0,
+                "Iniciador": 0
+            },
+            "atributos": {
+                "fuerza": 25,
+                "agilidad": 22,
+                "inteligencia": 25,
+                "points": {
+                    "health": 700,
+                    "mana": 375,
+                    "regeneration": {
+                        "health": 2.8,
+                        "mana": 1.3
+                    }
+                }
+            },
+            "statistics": {
+                "ataque": 52,
+                "defensa": 2.7,
+                "movilidad": 305
+            }
+        }
+    ]
+}
